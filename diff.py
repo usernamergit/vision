@@ -35,4 +35,4 @@ for i in range(len(images) - 1):
     Image.fromarray(out).save(os.path.join(OUTPUT_DIR, out_name))
     print(f"saved {out_name}")
 
-print("done")
+print("dpleasework")
